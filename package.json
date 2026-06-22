@@ -1,0 +1,13 @@
+{
+  "name": "oriz-india-budget-numbers-api",
+  "version": "0.1.0",
+  "description": "Union Budget numbers by category, year by year. Source: indiabudget.gov.in (public domain).",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

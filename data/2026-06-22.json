@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-22",
+  "source": "placeholder",
+  "currency": "INR_crore",
+  "years": {
+    "2025-26": {
+      "defence": 0,
+      "education": 0,
+      "health": 0,
+      "agriculture": 0,
+      "infrastructure": 0
+    },
+    "2024-25": {
+      "defence": 0,
+      "education": 0,
+      "health": 0,
+      "agriculture": 0,
+      "infrastructure": 0
+    },
+    "2023-24": {
+      "defence": 0,
+      "education": 0,
+      "health": 0,
+      "agriculture": 0,
+      "infrastructure": 0
+    }
+  }
+}
